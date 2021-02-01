@@ -1,0 +1,4 @@
+C:\Users\Kamil\source\repos\Liu\Liu\obj\Debug\Liu.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\Liu\Liu\obj\Debug\Liu.Properties.Resources.resources
+C:\Users\Kamil\source\repos\Liu\Liu\obj\Debug\Liu.csproj.GenerateResource.cache
+C:\Users\Kamil\source\repos\Liu\Liu\obj\Debug\Liu.csproj.CoreCompileInputs.cache

@@ -1,0 +1,3 @@
+C:\Users\Kamil\source\repos\Liu\Liu\obj\Release\Liu.Properties.Resources.resources
+C:\Users\Kamil\source\repos\Liu\Liu\obj\Release\Liu.csproj.GenerateResource.cache
+C:\Users\Kamil\source\repos\Liu\Liu\obj\Release\Liu.csproj.CoreCompileInputs.cache
